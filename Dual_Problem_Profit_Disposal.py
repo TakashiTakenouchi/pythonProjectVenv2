@@ -97,5 +97,10 @@ st.write("Jacket Production: ", int(jacket_production.value()))
 st.write("Pants Production: ", int(pants_production.value()))
 st.write("Waste: ", waste.value())
 
-# jacket_demand = 25の時系列予測を実行
+// jacket_demand = 25の時系列予測を実行
+
+
+
+
+
 
